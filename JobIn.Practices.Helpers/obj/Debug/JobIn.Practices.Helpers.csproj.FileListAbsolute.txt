@@ -1,0 +1,15 @@
+D:\Jobin\Code\JobIn.Portal\JobIn\JobIn.Practices.Helpers\obj\Debug\ResolveAssemblyReference.cache
+D:\Jobin\Code\JobIn.Portal\JobIn\JobIn.Practices.Helpers\bin\Debug\JobIn.Practices.Helpers.dll
+D:\Jobin\Code\JobIn.Portal\JobIn\JobIn.Practices.Helpers\bin\Debug\JobIn.Practices.Helpers.pdb
+D:\Jobin\Code\JobIn.Portal\JobIn\JobIn.Practices.Helpers\obj\Debug\JobIn.Practices.Helpers.dll
+D:\Jobin\Code\JobIn.Portal\JobIn\JobIn.Practices.Helpers\obj\Debug\JobIn.Practices.Helpers.pdb
+D:\Jobin\Code\JobIn.Practices.Helpers\bin\Debug\JobIn.Practices.Helpers.dll
+D:\Jobin\Code\JobIn.Practices.Helpers\bin\Debug\JobIn.Practices.Helpers.pdb
+D:\Jobin\Code\JobIn.Practices.Helpers\obj\Debug\ResolveAssemblyReference.cache
+D:\Jobin\Code\JobIn.Practices.Helpers\obj\Debug\JobIn.Practices.Helpers.dll
+D:\Jobin\Code\JobIn.Practices.Helpers\obj\Debug\JobIn.Practices.Helpers.pdb
+C:\Users\Felipe\Documents\Faculdade\TGI\Code\JobIn.Practices.Helpers\bin\Debug\JobIn.Practices.Helpers.dll
+C:\Users\Felipe\Documents\Faculdade\TGI\Code\JobIn.Practices.Helpers\bin\Debug\JobIn.Practices.Helpers.pdb
+C:\Users\Felipe\Documents\Faculdade\TGI\Code\JobIn.Practices.Helpers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Faculdade\TGI\Code\JobIn.Practices.Helpers\obj\Debug\JobIn.Practices.Helpers.dll
+C:\Users\Felipe\Documents\Faculdade\TGI\Code\JobIn.Practices.Helpers\obj\Debug\JobIn.Practices.Helpers.pdb
